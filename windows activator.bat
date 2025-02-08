@@ -1,6 +1,6 @@
 @shift /0
 @echo off
-title Windows 10 Activation By Risky
+title Windows 10 Activation - X Project
 mode 1000
 color 0c                                                        
 echo Press any key to start the activation . . .
